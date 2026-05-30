@@ -1,14 +1,2 @@
 # binding-affinity
-A hybrid DNN model using novel integrated interface features for predicting protein-protein complexes binding affinity
-# Information Selection
-Dataset PRODIGY dataset.csv    
-Code Information selection.ipynb
-# Feature Pairing
-Dataset PRODIGY dataset.csv    
-Code Feature pairing.ipynb
-# Hybrid SVR Model
-Dataset PRODIGY dataset.csv  
-Code Hybrid SVR model.py
-# Hybrid DNN Model
-Dataset UPR dataset.csv  
-Code Hybrid DNN model.py
+The paper proposed a method for effectively integrating two different types of key interfacial features to construct novel combined interfacial features, which were fed into the proposed hybrid model framework to build a hybrid model for predicting the binding affinity of protein–protein complexes.
